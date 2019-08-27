@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://musefree.com/index.html</loc>
-    <lastmod>2015-03-27</lastmod>
+    <loc>http://vingoz.github.io/index.html</loc>
+    <lastmod>2019-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://musefree.com/images/heart.png</image:loc>
+      <image:loc>http://vingoz.github.io/images/placeholder.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vingoz.github.io/images/placeholder373x240.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vingoz.github.io/images/close_button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vingoz.github.io/images/445513-pfp8vm-592-crop-u3934.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vingoz.github.io/images/bia-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vingoz.github.io/images/bc-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vingoz.github.io/images/_onboarding-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://musefree.com/about.html</loc>
-    <lastmod>2015-03-27</lastmod>
+    <loc>http://vingoz.github.io/assets/home-loop.mp4</loc>
+    <lastmod>2019-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://musefree.com/images/heart.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://musefree.com/portfolio.html</loc>
-    <lastmod>2015-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://musefree.com/images/heart.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://musefree.com/contact.html</loc>
-    <lastmod>2015-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://musefree.com/images/heart.png</image:loc>
-    </image:image>
   </url>
 </urlset>
